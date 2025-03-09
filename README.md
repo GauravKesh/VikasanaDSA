@@ -1,12 +1,6 @@
 # Vikasana DSA
 
-## Tech Stack
-
-- **Frontend**: React (Vite), Tailwind CSS, React Markdown
-- **Backend**: Express, Node.js, MongoDB (Mongoose)
-- **Authentication**: JWT (jsonwebtoken), bcrypt for password hashing
-- **API Requests**: Axios
-- **Environment**: dotenv for environment variables
+GPT generated
 
 ## Prerequisites
 
