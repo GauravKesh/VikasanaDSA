@@ -2,6 +2,14 @@
 
 GPT generated
 
+## STUFF TO DO
+- Make problems structure
+- write route to add problem
+- write route to add users to the problem structure if they solved it
+- everytime a user submits code, check if user exists in problem.solved, if not increment score
+- write getproblems (solved, unsolved) route to get all available problems to solve for user
+- make a /problems page to display solved and unsolved problems
+
 ## Prerequisites
 
 Before cloning and running the app, ensure you have the following installed:
